@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0053-maximum-subarray) |
+| [0496-next-greater-element-i](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0496-next-greater-element-i) |
 | [0890-find-and-replace-pattern](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0918-maximum-sum-circular-subarray) |
 | [1408-string-matching-in-an-array](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/1408-string-matching-in-an-array) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0496-next-greater-element-i](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0496-next-greater-element-i) |
 | [0890-find-and-replace-pattern](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0890-find-and-replace-pattern) |
 ## Sliding Window
 |  |
@@ -46,4 +48,12 @@
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/1408-string-matching-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
