@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0739-daily-temperatures) |
@@ -38,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0496-next-greater-element-i) |
 | [0890-find-and-replace-pattern](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0890-find-and-replace-pattern) |
