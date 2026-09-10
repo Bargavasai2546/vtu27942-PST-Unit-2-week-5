@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0739-daily-temperatures) |
 | [0890-find-and-replace-pattern](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0918-maximum-sum-circular-subarray) |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0901-online-stock-span) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Bargavasai2546/vtu27942-PST-Unit-2-week-5/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
